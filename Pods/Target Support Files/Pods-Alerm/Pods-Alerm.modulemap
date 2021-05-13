@@ -1,0 +1,6 @@
+framework module Pods_Alerm {
+  umbrella header "Pods-Alerm-umbrella.h"
+
+  export *
+  module * { export * }
+}
